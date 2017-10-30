@@ -1,4 +1,5 @@
 # hello-world
-Just anthor repository
+Just a repository
 
 hello github, i like coding!
+how about you?
